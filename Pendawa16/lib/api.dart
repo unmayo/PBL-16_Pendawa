@@ -1,5 +1,5 @@
 class Api {
-  static const _host = 'http://10.170.9.36/PBL%202';
+  static const _host = 'https://pendawa16.000webhostapp.com//'
   static String _Anggota = '$_host/user';
   static String _Account = '$_host/account';
   static String _pengajuan = '$_host/pengajuan';
